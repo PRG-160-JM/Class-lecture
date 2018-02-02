@@ -1,0 +1,1 @@
+alert("She would drive you to the funny farm");
